@@ -1,10 +1,15 @@
 ## Slime Boss for an Indie Platformer Game
 
 ## Introduction
-I had the opportunity to work on a unique boss mechanic for an indie platformer game developed by a small studio in Japan. <br />
-The goal was to create a challenging yet enjoyable experience for players by designing the Slime Boss, one of the first to many key antagonist in the game.
+I had the privilege of contributing to an indie platformer game developed by a small studio in Japan. My task was to develop a unique boss mechanic that would provide a challenging yet enjoyable experience for players. The focus of my work was on the Slime Boss, envisioned as one of the first key antagonists in the game.
 
+Initially, I was provided with a basic enemy slime that had simple pathing and following behaviors. My responsibility was to transform this basic enemy into a more complex and engaging boss character. Within the first two days, I immersed myself in understanding the existing framework, analyzing the game's design documentation, and strategizing the development process.
+
+By the third day, I had successfully implemented the attack and vulnerable states for the Slime Boss, along with its unique stats. By the fifth day, all the states were fully developed, and I shifted my focus to refining the boss's mechanics. This included coding stun effects, creating landing animations, and integrating sound effects to enhance the overall player experience.
+<br />
+<br />
 ## Features and Mechanics
+
 ### Jump Mechanic:<br />
 The Slime Boss can perform a triple jump to reach the player's position, adding a layer of unpredictability to the battle. <br />
 ### Vulnerability Phase: <br />
